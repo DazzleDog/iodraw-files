@@ -139,6 +139,9 @@
         <mxCell id="f-3TeCqDGHJChqThRenD-64" value="模块调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="560" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f-3TeCqDGHJChqThRenD-65" value="模块调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
