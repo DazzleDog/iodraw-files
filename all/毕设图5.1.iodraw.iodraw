@@ -31,6 +31,9 @@
         <mxCell id="ew-9s9PzbMwwQWXL986p-6" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;...&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="339" y="180" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ew-9s9PzbMwwQWXL986p-7" value="&lt;font color=&quot;#66ffb3&quot; style=&quot;font-size: 16px;&quot;&gt;算法核心模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
