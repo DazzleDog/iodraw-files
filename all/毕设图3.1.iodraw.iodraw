@@ -34,16 +34,16 @@
         <mxCell id="f-3TeCqDGHJChqThRenD-28" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Flask 2.x 后端框架 · RESTful API · Blueprint 路由&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="89" y="390" width="341" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f-3TeCqDGHJChqThRenD-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;文件接受&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-3TeCqDGHJChqThRenD-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;文件接受&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="109" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-3TeCqDGHJChqThRenD-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结果存储&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-3TeCqDGHJChqThRenD-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结果存储&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="429" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-3TeCqDGHJChqThRenD-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;路由分发&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-3TeCqDGHJChqThRenD-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;路由分发&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="269" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f-3TeCqDGHJChqThRenD-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AI接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f-3TeCqDGHJChqThRenD-32" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AI接口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="589" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-3TeCqDGHJChqThRenD-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f-3TeCqDGHJChqThRenD-33" target="f-3TeCqDGHJChqThRenD-26">
