@@ -47,8 +47,8 @@
         <mxCell id="X1jCjerxhcFK2cXGEkEe-14" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="440" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X1jCjerxhcFK2cXGEkEe-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;骨骼关键点&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;输出 17 个关键点坐标(x,y)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="275" y="280" width="255" height="60" as="geometry" />
+        <mxCell id="X1jCjerxhcFK2cXGEkEe-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;按索引提取关键点&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;kpts[id] -&amp;gt; ( x, y, conf )&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="265" y="470" width="255" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
