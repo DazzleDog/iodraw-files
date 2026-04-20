@@ -40,6 +40,9 @@
         <mxCell id="R0AxjhjABEMzpcLZxOaB-17" value="&lt;font color=&quot;#ff0000&quot;&gt;格式错误提示&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="180" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R0AxjhjABEMzpcLZxOaB-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;选择动作类型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
