@@ -34,13 +34,13 @@
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sF_GCuWjGlSJ5uW-IGJE-6" target="sF_GCuWjGlSJ5uW-IGJE-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sF_GCuWjGlSJ5uW-IGJE-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;姿态估计模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;YOLOv8 Pose 关键点检测&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sF_GCuWjGlSJ5uW-IGJE-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;姿态估计模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;YOLOv8 Pose 关键点检测&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="267.5" y="450" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sF_GCuWjGlSJ5uW-IGJE-7" target="sF_GCuWjGlSJ5uW-IGJE-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sF_GCuWjGlSJ5uW-IGJE-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;动作评估模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;前屈 外展 内旋 外旋&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sF_GCuWjGlSJ5uW-IGJE-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;动作评估模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;前屈 外展 内旋 外旋&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="185" y="560" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;评估结果(JSON)&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;角度值 评级 关键帧&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
