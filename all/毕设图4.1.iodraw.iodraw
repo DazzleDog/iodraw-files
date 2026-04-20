@@ -15,8 +15,8 @@
         <mxCell id="X1jCjerxhcFK2cXGEkEe-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;YOLO 目标检测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;识别人体目标，输出Box&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#004C99;" vertex="1" parent="1">
           <mxGeometry x="265" y="180" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="X1jCjerxhcFK2cXGEkEe-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;YOLO 目标检测&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;识别人体目标，输出Box&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#004C99;" vertex="1" parent="1">
-          <mxGeometry x="270" y="270" width="260" height="70" as="geometry" />
+        <mxCell id="X1jCjerxhcFK2cXGEkEe-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;骨骼关键点&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;输出 17 个关键点坐标(x,y)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCE5FF;strokeColor=#004C99;" vertex="1" parent="1">
+          <mxGeometry x="265" y="270" width="260" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
