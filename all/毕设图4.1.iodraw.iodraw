@@ -79,7 +79,7 @@
             <mxRectangle x="200" y="600" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X1jCjerxhcFK2cXGEkEe-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;左右肩(5,6)&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;左右腕肘(7.8)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;左右腕(9,10)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;-&amp;gt;髋-肩中线与手臂的角度（前屈 ROM）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X1jCjerxhcFK2cXGEkEe-19">
+        <mxCell id="X1jCjerxhcFK2cXGEkEe-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;左右肩(5,6)&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;左右腕肘(7.8)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;左右腕(9,10)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#00ff00&quot; style=&quot;font-size: 16px;&quot;&gt;-&amp;gt;小臂相对躯干的外分角度（外旋 ROM）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="X1jCjerxhcFK2cXGEkEe-19">
           <mxGeometry x="20" y="50" width="160" height="130" as="geometry" />
         </mxCell>
       </root>
