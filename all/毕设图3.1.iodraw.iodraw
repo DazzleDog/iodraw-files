@@ -97,8 +97,11 @@
             <mxPoint x="300" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f-3TeCqDGHJChqThRenD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.721;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f-3TeCqDGHJChqThRenD-39" target="f-3TeCqDGHJChqThRenD-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="f-3TeCqDGHJChqThRenD-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="790" as="sourcePoint" />
+            <mxPoint x="460" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
