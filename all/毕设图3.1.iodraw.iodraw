@@ -136,8 +136,8 @@
         <mxCell id="f-3TeCqDGHJChqThRenD-62" value="json返回" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f-3TeCqDGHJChqThRenD-64" value="http" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="310" width="60" height="30" as="geometry" />
+        <mxCell id="f-3TeCqDGHJChqThRenD-64" value="模块调用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="560" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
