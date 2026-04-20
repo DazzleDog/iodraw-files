@@ -70,6 +70,9 @@
         <mxCell id="R0AxjhjABEMzpcLZxOaB-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;功能分级评估&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="620" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="R0AxjhjABEMzpcLZxOaB-26" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;AI建议生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="690" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
