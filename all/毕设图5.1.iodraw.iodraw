@@ -22,8 +22,8 @@
         <mxCell id="ew-9s9PzbMwwQWXL986p-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="300" y="95" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="ew-9s9PzbMwwQWXL986p-2" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;flexion.py&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="80" width="90" height="30" as="geometry" />
+        <mxCell id="ew-9s9PzbMwwQWXL986p-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;flexion.py&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
