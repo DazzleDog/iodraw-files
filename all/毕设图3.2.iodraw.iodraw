@@ -8,7 +8,7 @@
           <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;用户交互模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="210" width="235" height="60" as="geometry" />
+          <mxGeometry x="275" y="210" width="245" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
