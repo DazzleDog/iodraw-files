@@ -89,7 +89,10 @@
           <mxGeometry x="255" y="450" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew-9s9PzbMwwQWXL986p-26" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 16px;&quot;&gt;js&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="510" width="40" height="30" as="geometry" />
+          <mxGeometry x="260" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew-9s9PzbMwwQWXL986p-27" value="&lt;font color=&quot;#66ffb3&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应用主界面入口&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
