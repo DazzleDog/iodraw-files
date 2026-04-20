@@ -79,8 +79,8 @@
         <mxCell id="ew-9s9PzbMwwQWXL986p-22" value="&lt;font color=&quot;#66ffb3&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;应用主界面入口&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="344" y="400" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ew-9s9PzbMwwQWXL986p-23" value="&lt;font color=&quot;#66ffb3&quot; style=&quot;font-size: 16px;&quot;&gt;算法核心模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="180" y="320" width="120" height="30" as="geometry" />
+        <mxCell id="ew-9s9PzbMwwQWXL986p-23" value="&lt;font color=&quot;#66ffb3&quot; style=&quot;font-size: 16px;&quot;&gt;后端服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
