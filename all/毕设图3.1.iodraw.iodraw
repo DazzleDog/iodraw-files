@@ -70,6 +70,9 @@
         <mxCell id="f-3TeCqDGHJChqThRenD-41" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;外旋&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="800" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="f-3TeCqDGHJChqThRenD-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;关键点&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;提取&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="130" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
