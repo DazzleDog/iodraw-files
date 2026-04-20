@@ -28,9 +28,6 @@
         <mxCell id="ew-9s9PzbMwwQWXL986p-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;abduction.py&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="314" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ew-9s9PzbMwwQWXL986p-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;flexion.py&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="324" y="155" width="90" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
