@@ -34,8 +34,11 @@
         <mxCell id="ew-9s9PzbMwwQWXL986p-7" value="&lt;font color=&quot;#66ffb3&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;前屈评估算法&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="90" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ew-9s9PzbMwwQWXL986p-8" value="&lt;font color=&quot;#66ffb3&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;前屈评估算法&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ew-9s9PzbMwwQWXL986p-8" value="&lt;font color=&quot;#66ffb3&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;外展评估算法&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew-9s9PzbMwwQWXL986p-9" value="&lt;font color=&quot;#66ffb3&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;外展评估算法&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
