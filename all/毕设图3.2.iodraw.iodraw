@@ -25,6 +25,9 @@
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;动作评估模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;前屈 外展 内旋 外旋&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="560" width="410" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sF_GCuWjGlSJ5uW-IGJE-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;姿态估计模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;YOLOv8 Pose 关键点检测&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="670" width="245" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
