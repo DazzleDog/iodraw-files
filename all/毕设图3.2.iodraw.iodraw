@@ -14,7 +14,7 @@
           <mxGeometry x="267.5" y="210" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;文件管理模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;格式校验 安全命名 路径管理&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="330" width="245" height="80" as="geometry" />
+          <mxGeometry x="85" y="330" width="245" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sF_GCuWjGlSJ5uW-IGJE-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结果报告模块&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;可视化展示 AI评估 PDF导出&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="330" width="245" height="80" as="geometry" />
