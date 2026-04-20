@@ -47,6 +47,9 @@
         <mxCell id="X1jCjerxhcFK2cXGEkEe-14" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="507" y="420" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="X1jCjerxhcFK2cXGEkEe-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X1jCjerxhcFK2cXGEkEe-15" target="X1jCjerxhcFK2cXGEkEe-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X1jCjerxhcFK2cXGEkEe-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;按索引提取关键点&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;kpts[id] -&amp;gt; ( x, y, conf )&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="372" y="450" width="255" height="60" as="geometry" />
         </mxCell>
